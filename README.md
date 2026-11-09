@@ -1,5 +1,5 @@
 # Physical-Network-Topology-Project
-Used IP Configurations Knowledge : Network IP, Subnetting, Gateways, Troubleshooting Commands, VLANs
+Used IP Configurations Knowledge : Network IP, Subnetting, Gateways, Troubleshooting Commands, VLANs, Routing Table, Static Route
 
 Just Download The .pkt Packet Tracer File To Open In Cisco Packet Tracer
 
